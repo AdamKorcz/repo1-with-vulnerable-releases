@@ -15,10 +15,10 @@ replace golang.org/x/text => golang.org/x/text v0.3.8
 
 replace github.com/gorilla/websocket => github.com/gorilla/websocket v1.5.3
 
-replace golang.org/x/crypto => golang.org/x/crypto v0.35.0
-
 replace github.com/gin-gonic/gin => github.com/gin-gonic/gin v1.9.1
 
 replace golang.org/x/net => golang.org/x/net v0.39.0
 
 replace github.com/golang-jwt/jwt/v4 => github.com/golang-jwt/jwt/v4 v4.5.2
+
+replace golang.org/x/crypto => golang.org/x/crypto v0.36.0
